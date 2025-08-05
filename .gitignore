@@ -1,14 +1,19 @@
-venv310/
+# Python
 __pycache__/
-*.pyc
-venv310/
-__pycache__/
-*.pyc
-venv310/
-<<<<<<< HEAD
-venv310/
-__pycache__/
-*.pyc
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# macOS system file
 .DS_Store
-=======
->>>>>>> a5979df79e4bed46efadc8d8600f3980837938c6
+
+# IDE and editor files
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
