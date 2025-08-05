@@ -5,7 +5,10 @@ venv310/
 __pycache__/
 *.pyc
 venv310/
+<<<<<<< HEAD
 venv310/
 __pycache__/
 *.pyc
 .DS_Store
+=======
+>>>>>>> a5979df79e4bed46efadc8d8600f3980837938c6
