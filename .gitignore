@@ -1,0 +1,11 @@
+venv310/
+__pycache__/
+*.pyc
+venv310/
+__pycache__/
+*.pyc
+venv310/
+venv310/
+__pycache__/
+*.pyc
+.DS_Store
